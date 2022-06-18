@@ -1,3 +1,3 @@
-# Design-Patterns
+# Design-Patterns-Academy
 
-# Learning resource for a basic overview of common design patterns in software enigneering
+Learning resource for a basic overview of common design patterns in software engineering
